@@ -1,6 +1,4 @@
-# portfolio-website
 # My Portfolio Website
-
 Welcome to my portfolio website! This project showcases my skills, projects, and experiences as a web developer.
 
 ## Overview
